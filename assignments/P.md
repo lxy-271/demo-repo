@@ -1,5 +1,6 @@
 我的GitHub网址：https://github.com/lxy-271
-<img width="1048" alt="github截图" src="https://github.com/user-attachments/assets/c9597c8d-e881-4da3-85c7-bd95ba2df7a7" />
+<img width="1056" alt="github新截图" src="https://github.com/user-attachments/assets/fc0f7fe3-e126-440b-a4a1-71f406f86dda" />
+
 
 关于cheatsheet：计概备忘录是我自己整理的一些语法和知识点之类的，这个比较个人化，另一份cheatsheet是对班里同学上传的cheatsheet做了一点小标注，里面有一些具体题型模版我觉得可能比较有用所以也戴上了。不过其实确实复习与整理的过程更重要，到考场上真没什么时间看，而且一紧张也想不太起来具体哪个知识点在哪了。
 
